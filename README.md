@@ -31,9 +31,10 @@ Following are a series of projects I've implemented with the goal of applying ma
 <li>adr: Average daily return</li>
 <li>sddr: Standard deviation of daily return</li>
 <li>sr: Sharpe ratio</li>
-<li>The input parameters are:</li>
 
 <b> marketSimulator </b>: A market simulator that accepts trading orders and keeps track of a portfolio's value over time and then assesses the performance of that portfolio.
+
+Note: These projects were completed as part of Udacity's incredible ML for Trading course developed by Professor Tucker Balch.
 
 
 
