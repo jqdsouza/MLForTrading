@@ -19,13 +19,13 @@ Following are a series of projects I've implemented with the goal of applying ma
 
 <b> portfolioOptimization </b>: The goal of this project was to find the optimal allocations for a given set of stocks. This is done by optimizing for Sharpe ratio.
 
-<i> Input parameters </i>
+<i> Input parameters: </i>
 <li>sd: A datetime object that represents the start date</li>
 <li>ed: A datetime object that represents the end date</li>
 <li>syms: A list of symbols that make up the portfolio</li>
 <li>gen_plot: If True, creates a plot named plot.png</li>
 
-<i> Outputs </i>
+<i> Outputs: </i>
 <li>allocs: A 1-d Numpy ndarray of allocations to the stocks</li>
 <li>cr: Cumulative return</li>
 <li>adr: Average daily return</li>
