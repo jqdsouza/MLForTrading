@@ -2,6 +2,8 @@
 
 Following are a series of projects I've implemented with the goal of applying machine learning to solve classic trading problems: 
 
+<b> marketSimulator </b>: A market simulator that accepts trading orders and keeps track of a portfolio's value over time and then assesses the performance of that portfolio.
+
 <b> portfolioAnalysis </b>: This project takes as input a description of a portfolio and computes important statistics about it.
 
 <i>Inputs:</i>
@@ -32,9 +34,7 @@ Following are a series of projects I've implemented with the goal of applying ma
 <li>sddr: Standard deviation of daily return</li>
 <li>sr: Sharpe ratio</li>
 
-<b> marketSimulator </b>: A market simulator that accepts trading orders and keeps track of a portfolio's value over time and then assesses the performance of that portfolio.
-
-Note: These projects were completed as part of Udacity's incredible ML for Trading course developed by Professor Tucker Balch.
+Note: These projects were completed as part of Udacity's incredible <a href="https://www.udacity.com/course/machine-learning-for-trading--ud501"> ML for Trading </a>course developed by Professor Tucker Balch.
 
 
 
